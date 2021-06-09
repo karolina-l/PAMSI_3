@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/tic_tac_toe/main.cpp
+iostream
+-
+algorithm
+-
+limits
+-
+

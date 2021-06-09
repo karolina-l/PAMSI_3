@@ -1,0 +1,3 @@
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/tic_tac_toe/cmake-build-debug/CMakeFiles/tic_tac_toe.dir
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/tic_tac_toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/tic_tac_toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
